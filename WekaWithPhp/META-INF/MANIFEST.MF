@@ -1,0 +1,2 @@
+Main-Class: WekaWithPhp
+Class-Path: JavaBridge.jar weka.jar
