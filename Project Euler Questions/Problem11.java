@@ -1,6 +1,7 @@
 import java.io.File;
 import java.util.Scanner;
-
+/*What is the greatest product of four adjacent numbers in the same direction (up, down, left, right,
+ or diagonally) in the 20×20 grid?*/
 public class Problem11 {
 
 	public static void main(String[] args) {
